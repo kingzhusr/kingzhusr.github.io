@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[重读《实践论》《矛盾论》]]></title>
+    <url>%2F2019%2F01%2F06%2F%E9%87%8D%E8%AF%BB%E3%80%8A%E5%AE%9E%E8%B7%B5%E8%AE%BA%E3%80%8B%E3%80%8A%E7%9F%9B%E7%9B%BE%E8%AE%BA%E3%80%8B%2F</url>
+    <content type="text"><![CDATA[重读《实践论》《矛盾论》第一篇文章第二个标题 列表1 列表2 a 子列表1 b 子列表2 列表3 中国共产党 字体是斜的 字体加粗了 &lt;html&gt;&lt;/html&gt; 123456789&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt; &lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt; 我是引用别人的]]></content>
+      <categories>
+        <category>党建</category>
+      </categories>
+      <tags>
+        <tag>目录</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F01%2F06%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
