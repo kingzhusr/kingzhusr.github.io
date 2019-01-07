@@ -535,14 +535,14 @@ pre,
   overflow: auto;
   margin: 20px 0;
   padding: 0;
-  font-size: 14px;
+  font-size: 12px;
   color: #eaeaea;
   background: #000;
   line-height: 1.6;
 }
 pre,
 code {
-  font-family: consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
+  font-family: 'Iosevka', consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
 }
 code {
   overflow-wrap: break-word;
@@ -551,7 +551,7 @@ code {
   color: #555;
   background: #eee;
   border-radius: 3px;
-  font-size: 14px;
+  font-size: 12px;
 }
 pre {
   padding: 10px;
@@ -1898,7 +1898,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff0128;
+  background: #3b82ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2892,4 +2892,12 @@ hr {
   padding: 25px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
+@font-face {
+  font-family: Iosevka;
+  src: url("/fonts/FZXBSJW.TTF");
+}
+@font-face {
+  font-family: Iosevka;
+  src: url("/fonts/FZXBSJW.TTF");
 }
